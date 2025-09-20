@@ -1,0 +1,41 @@
+# 📦 Node.js
+node_modules/
+package-lock.json
+
+# 🛠️ Hardhat / Solidity
+artifacts/
+cache/
+build/
+coverage/
+*.tsbuildinfo
+
+# 🔐 Environment
+.env
+.env.local
+.env.*.local
+
+# 🧪 Logs & Debug
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🧠 IDEs & Editor Settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# 🖼️ OS-spezifisch
+.DS_Store      # macOS
+Thumbs.db      # Windows
+desktop.ini    # Windows
+
+# 📁 Misc
+*.swp          # Vim swap files
+*.bak
+*.tmp
+*.orig
+
+# 🔍 Optional: Ignore test outputs
+test-output/

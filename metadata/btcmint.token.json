@@ -1,0 +1,10 @@
+{
+  "symbol": "BTCMINT",
+  "name": "Bitcoin Mint",
+  "address": "0xCFD82A67Ce92Ab148597b0894472fE20C2125fd1",
+  "decimals": 18,
+  "logo": {
+    "src": "https://btcmint.io/logo.png"
+  },
+  "website": "https://btcmint.io"
+}

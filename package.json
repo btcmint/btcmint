@@ -1,0 +1,31 @@
+{
+  "name": "Bitcoin Mint",
+  "version": "1.0.0",
+  "description": "Trustless ERC-20 token powering the BTCMINT ecosystem – auditable, fast, and eco-friendly",
+  "main": "index.js",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "clean": "npx hardhat clean",
+    "test": "npx hardhat test",
+    "node": "npx hardhat node",
+    "console": "npx hardhat console --network localhost",
+    "deploy": "npx hardhat run scripts/deploy.amoy.ts --network amoy",
+    "deploy:local": "npx hardhat run scripts/deploy.local.ts --network localhost",
+    "verify": "npx hardhat verify --network polygon"
+  },
+  "keywords": [],
+  "author": "BTCMINT (Official)",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@nomiclabs/hardhat-etherscan": "^3.1.8",
+    "dotenv": "^17.2.2",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.26.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "5.4.0"
+  }
+}
