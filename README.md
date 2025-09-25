@@ -65,7 +65,7 @@ npx hardhat run scripts/deploy.js --network polygon
 ## 🌐 Official Links
 
 - Website: [btcmint.io](https://btcmint.io)  
-- Discord: [discord.gg/wNyf84bv](https://discord.gg/wNyf84bv)  
+- Discord: [discord.gg/wNyf84bv](https://discord.gg/jEbsMTV3se)  
 - Twitter/X: [@btcmint_io](https://x.com/btcmint_io)  
 - GitHub: [github.com/btcmint](https://github.com/btcmint)  
 

@@ -4,7 +4,7 @@ _The BTCMINT network is only as strong as its builders, voters, and protectors._
 ### Channel  
 There’s one place where it all happens:  
 - **Discord** — Developer hub, module drops, live support, and build‑in‑public sessions.  
-  [Join here →](https://discord.gg/wNyf84bv)
+  [Join here →](https://discord.gg/jEbsMTV3se)
 
 ### Contribution Guide  
 BTCMINT is permissionless — if you can build it, you can ship it.  
