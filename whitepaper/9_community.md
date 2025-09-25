@@ -24,7 +24,7 @@ Security is a shared responsibility.
 
 ### Official Links  
 - **Website** — [btcmint.io](https://btcmint.io) — Home base for the ecosystem, docs, and modules  
-- **Discord** — [discord.gg/wNyf84bv](https://discord.gg/wNyf84bv)  
+- **Discord** — [discord.gg/wNyf84bv](https://discord.gg/jEbsMTV3se)  
 - **GitHub** — [github.com/btcmint](https://github.com/btcmint)  
 - **Twitter/X** — [x.com/btcmint_io](https://x.com/btcmint_io)  
 - **Email** — info(at)btcmint.io  
