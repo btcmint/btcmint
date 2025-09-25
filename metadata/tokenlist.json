@@ -1,0 +1,41 @@
+{
+  "name": "Bitcoin Mint Tokenlist",
+  "logoURI": "https://btcmint.io/logo-128x128.png",
+  "keywords": ["defi", "modular", "community", "btcmint", "kernel"],
+  "timestamp": "2025-09-25T10:34:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {
+    "defi": {
+      "name": "DeFi",
+      "description": "Decentralized finance token"
+    },
+    "modular": {
+      "name": "Modular",
+      "description": "Part of a modular infrastructure"
+    },
+    "community": {
+      "name": "Community-Owned",
+      "description": "Governed and owned by its community"
+    }
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xCFD82A67Ce92Ab148597b0894472fE20C2125fd1",
+      "decimals": 18,
+      "name": "Bitcoin Mint",
+      "symbol": "BTCMINT",
+      "logoURI": "https://btcmint.io/logo-128x128.png",
+      "tags": ["defi", "modular", "community"],
+      "extensions": {
+        "is_verified_by_btcmint": true,
+        "website": "https://btcmint.io",
+        "twitter": "@btcmint_io"
+      }
+    }
+  ]
+}

@@ -26,7 +26,7 @@ yarn-error.log*
 *.sublime-workspace
 *.sublime-project
 
-# 🖼️ OS-spezifisch
+# 🖼️ OS-Specific
 .DS_Store      # macOS
 Thumbs.db      # Windows
 desktop.ini    # Windows
